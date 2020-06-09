@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784926952216",
+    "firebase_url": "https://tele-medicine-d0cce.firebaseio.com",
+    "project_id": "tele-medicine-d0cce",
+    "storage_bucket": "tele-medicine-d0cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784926952216:android:a65eddf732f5f65ea36c6d",
+        "android_client_info": {
+          "package_name": "com.agrotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784926952216-lv6bq5nmeg36hen85qhm6s0f1dcnhe2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjecWJDNU3tOO8HNmHqXvt8rGFw_YJTpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784926952216-lv6bq5nmeg36hen85qhm6s0f1dcnhe2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
